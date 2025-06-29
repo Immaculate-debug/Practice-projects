@@ -1,0 +1,14 @@
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\bin\Debug\net8.0\Binary_to_Decimal_Convertor.exe
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\bin\Debug\net8.0\Binary_to_Decimal_Convertor.deps.json
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\bin\Debug\net8.0\Binary_to_Decimal_Convertor.runtimeconfig.json
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\bin\Debug\net8.0\Binary_to_Decimal_Convertor.dll
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\bin\Debug\net8.0\Binary_to_Decimal_Convertor.pdb
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.AssemblyInfoInputs.cache
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.AssemblyInfo.cs
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.csproj.CoreCompileInputs.cache
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.dll
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\refint\Binary_to_Decimal_Convertor.dll
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.pdb
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\Binary_to_Decimal_Convertor.genruntimeconfig.cache
+C:\Users\Hlohi\source\repos\Binary_to_Decimal_Convertor\Binary_to_Decimal_Convertor\obj\Debug\net8.0\ref\Binary_to_Decimal_Convertor.dll
